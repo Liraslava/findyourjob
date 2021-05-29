@@ -135,7 +135,7 @@ body {
 	height: 100px;
 	border-radius: 50%;
 	border: 1px solid #f2f3f6;
-	background: #fff url('../img/logo-company.png') no-reapeat center / contain;
+	background: #fff url('../img/logo-company.png') no-repeat center / contain;
 }
 .offer-title{
 	margin-left: 20px;
